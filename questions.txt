@@ -1,0 +1,4 @@
+type of site  (filtrare suplimentara ?) news; discussions
+cautam mai intai pe site-urile alea ? reddit hackernews ... sau lasam sa caute pe toate ?
+baza de date pe calculatorul personal ... ok sau nu e ok?
+filtrare video?text?source-code?

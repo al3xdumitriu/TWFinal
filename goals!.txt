@@ -1,0 +1,33 @@
+password constraint length  				 DONE!
+INTEREST FIELD in register 					 DONE!
+modifing users database (adding interest)    DONE!
+on register adding interest in database 	 DONE!
+
+
+automaticaly updating article id table for this user DONE!
+
+creating a database with this users aritcles   DONE
+	-> articolul o sa aiba id unic , user , titlu , substring text, date, url , popularitate (pt upvote si downvote) DONE!
+	-> adding an trigger to update id news automaticaly    DONE!
+	-> comparing news so we do not have duplicates (duplicate titles? .. duplicate substring ?) cred ca o sa fac o functie !!! sa faca toata treaba asta ! DONE
+	
+sa preluam din baza de date in functie de USER SI popularitate DONE
+links open in new tab		DONE!
+
+upvote, downvote , counter .... DONE!
+
+rezolvat bug-ul cu paza de date din user specific DONE  (MUTAT PROCESAREA PE HOME!)!!!
+
+posibilitatea schimbarii domeniului de interes domeniului de interes ! DONE!
+
+	
+IN FUNCTIE DE FORMAT ... restrictie AJAX!!!!!
+rss feed DONE
+
+
+
+incarcat codul sursa pe github!
+manualul utilizatorului!(html) 
+arhitectura aplicatiei!
+Un raport – document, prezentare, exemple etc. – disponibil public (adaugat imagini... chestii)
+film
